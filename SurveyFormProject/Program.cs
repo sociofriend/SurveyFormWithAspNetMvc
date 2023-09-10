@@ -21,7 +21,8 @@ namespace SurveyFormProject
 
             var useEf = bool.Parse(builder.Configuration["ConnectionSettings:UseEf"]);
             
-            if(useEf)
+            //set framework settings from appsettins.Development.Json
+            if(useEf) 
                 builder.Services.AddScoped<IRepository, RepositoryEF>();             //EF
             else
                 builder.Services.AddScoped<IRepository, RepositoryAdo>();           //AdoNet
