@@ -32,10 +32,7 @@ namespace SurveyFormProject
             //EF
             builder.Services.AddDbContext<SurveyFormContext>(dbContextOptions =>
                 dbContextOptions.UseSqlServer(
-                    builder.Configuration["ConnectionStrings:DockerConnectionString"]));
-
-            //AdoNet
-            
+                    builder.Configuration["ConnectionStrings:DockerConnectionString"]));            
 
 
             var app = builder.Build();

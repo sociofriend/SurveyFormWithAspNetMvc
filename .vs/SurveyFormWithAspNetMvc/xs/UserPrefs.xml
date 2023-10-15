@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{85E8805E-CA31-4F5C-8FE3-00A36D5A8ED1}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="SurveyFormProject/Profiles/GuestResponseProfile.cs">
+    <Files>
+      <File FileName="SurveyFormProject/Controllers/HomeController.cs" Line="58" Column="31" />
+      <File FileName="SurveyFormProject/Program.cs" Line="38" Column="39" />
+      <File FileName="SurveyFormProject/DbContexts/SurveyFormContext.cs" Line="29" Column="2" />
+      <File FileName="SurveyFormProject/Entities/GuestResponse.cs" Line="10" Column="9" />
+      <File FileName="SurveyFormProject/Models/GuestResponseDto.cs" Line="23" Column="1" />
+      <File FileName="SurveyFormProject/appsettings.Development.json" Line="12" Column="21" />
+      <File FileName="SurveyFormProject/Repositories/RepositoryAdo.cs" Line="40" Column="42" />
+      <File FileName="SurveyFormProject/Repositories/RepositoryEF.cs" Line="35" Column="6" />
+      <File FileName="SurveyFormProject/Repositories/IRepository.cs" Line="1" Column="1" />
+      <File FileName="SurveyFormProject/Profiles/GuestResponseProfile.cs" Line="13" Column="1" />
+      <File FileName="SurveyFormProject/Views/Home/Index.cshtml" Line="9" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SurveyFormWithAspNetMvc" expanded="True">
+            <Node name="SurveyFormProject" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="DbContexts" expanded="True" />
+              <Node name="Entities" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Profiles" expanded="True">
+                <Node name="GuestResponseProfile.cs" selected="True" />
+              </Node>
+              <Node name="Repositories" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SurveyFormProject PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+</Properties>
